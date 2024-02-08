@@ -1,0 +1,12 @@
+name: objectlist
+channels:
+- conda-forge
+dependencies:
+- python=3.9
+- numpy=1.22
+- tqdm=4.63
+- joblib=1.3.2
+- pytest
+- twine
+- pip:
+  - build
