@@ -34,6 +34,3 @@ testpaths = [
     "tests",
     "integration",
 ]
-
-[project.scripts]
-realpython = "reader.__main__:main"
