@@ -6,13 +6,14 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "objectlist"
-version = "1.0.0"
+version = "1.0.2"
 description = "Use methods and method chaining on lists of objects."
 readme = "README.md"
 authors = [{ name = "Ivo Severins", email = "i.w.h.severins@tudelft.nl" }]
 classifiers = [
     "Programming Language :: Python",
     "Programming Language :: Python :: 3",
+	"License :: OSI Approved :: GNU General Public License v3 (GPLv3)"
 ]
 keywords = ["object", "list", "method", "chaining"]
 dependencies = [
